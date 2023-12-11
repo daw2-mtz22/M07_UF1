@@ -14,7 +14,7 @@
 	<title> Welcome!</title>
 	 <style>
 		p{
-			text-align: "left";
+			text-align: left;
 		}
 		<?php
 
